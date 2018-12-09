@@ -4,7 +4,7 @@ A sneak peek into the Airbnb activity in Seattle
 
 - [Heading](#heading6)
   * [Motivation](#motivation)
-    + [no_matter_what_this_is](#THIRD_heading)
+    + [no_matter_what_this_is](#THIR_heading)
 
 
 ## Heading6
