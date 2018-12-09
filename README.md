@@ -2,9 +2,9 @@
 A sneak peek into the Airbnb activity in Seattle
 
 
-- [Heading](#heading)
-  * [Motivation](#Motivation)
-    + [Sub-sub-heading](#sub-sub-heading)
+- [Heading](#heading6)
+  * [Motivation](#motivation)
+    + [Sub-sub-heading](#third_heading)
 
 
 ## Heading6
@@ -24,7 +24,7 @@ Wikipedia was launched on January 15, 2001, by Jimmy Wales and Larry Sanger.[10]
 
 This is an h2 heading
 
-#### Sub-sub-heading
+#### third_heading
 
 This is an h3 heading
 
