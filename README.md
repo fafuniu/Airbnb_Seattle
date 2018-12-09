@@ -2,17 +2,16 @@
 A sneak peek into the Airbnb activity in Seattle
 
 
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
+- [Heading6](#heading)
+  * [Sub-heading](#sub-heading2)
     + [Sub-sub-heading](#sub-sub-heading)
 
-<!-- toc -->
 
-## Heading
+## Heading6
 
 This is an h1 heading
 
-### Sub-heading
+### Sub-heading2
 
 This is an h2 heading
 
