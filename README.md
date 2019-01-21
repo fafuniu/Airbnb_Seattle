@@ -4,7 +4,7 @@ A sneak peek into the Airbnb activity in Seattle
 
 - [Dataset](#Dataset)
 - [Motivation](#motivation)
-    + [no_matter_what_this_is](#THIR_heading)   /(###Example%201%20Heading)
+- [no_matter_what_this_is](#THIR_heading) --the content in the brackets determines the superlink. 
 
 
 ## Dataset
