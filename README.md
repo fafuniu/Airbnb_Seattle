@@ -2,7 +2,7 @@
 A sneak peek into the Airbnb activity in Seattle
 
 
-- [Dataset](#Dateset)
+- [Dataset](#dateset)
 - [Motivation](#motivation)
     + [no_matter_what_this_is](#THIR_heading)   /(###Example%201%20Heading)
 
