@@ -2,12 +2,12 @@
 A sneak peek into the Airbnb activity in Seattle
 
 
-- [Dataset](#dateset2)
+- [Dataset](#Dataset)
 - [Motivation](#motivation)
     + [no_matter_what_this_is](#THIR_heading)   /(###Example%201%20Heading)
 
 
-## dateset2
+## Dataset
 
 The dataset in this project is from a Kaggle competition. You could access it by this link (https://www.kaggle.com/airbnb/seattle/data).
 
