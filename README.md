@@ -4,7 +4,7 @@ A sneak peek into the Airbnb activity in Seattle
 
 - [Dataset](#Dataset)
 - [Motivation](#motivation)
-- [no_matter_what_this_is](#third_heading) --the content in the brackets determines the superlink. 
+
 
 
 ## Dataset
@@ -13,9 +13,9 @@ The dataset in this project is from a Kaggle competition. You could access it by
 
 ## Motivation
 
-This is an h2 heading
+In this article, I drive into the open data of Seattle Airbnb from Kaggle and try to answer some questions related to the rental prices.
 
-## third_heading
-
-This is an h3 heading
+-Q1. Which neighbourhoods have the most rooms? And which areas are the cheapest to live?
+-Q2. The change of the average prices of Airbnb with time in a year/week
+-Q3. The change of occupancy rate with time in a week
 
