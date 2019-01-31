@@ -11,7 +11,7 @@ A sneak peek into the Airbnb activity in Seattle
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+There is no necessary libraries to run the code in thie repo beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
 
 ## Motivation
